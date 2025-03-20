@@ -1,3 +1,6 @@
+*Database was created for a school project*
+
+
 BRANCH to EMPLOYEE:
 
 A BRANCH Employes 1-or-many EMPLOYEE(S).
